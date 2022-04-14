@@ -5,3 +5,4 @@ src/ilab_alliteration/__pycache__/
 **__pycache__/
 .coverage
 .coveragerc
+*exe
