@@ -1,0 +1,9 @@
+pipeline-config: pipelines/ilab-library.mako
+
+python:
+  enabled: true
+  ci:
+    enabled: true
+
+sonar:
+  enabled: false

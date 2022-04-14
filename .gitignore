@@ -1,0 +1,7 @@
+.DS_store
+src/__pycache__/
+tests/__pycache__/
+src/ilab_alliteration/__pycache__/
+**__pycache__/
+.coverage
+.coveragerc
